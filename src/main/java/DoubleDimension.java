@@ -4,7 +4,7 @@ public class DoubleDimension {
     int columnSize = 0;
 
 
-    // consructor
+    // constructor
     public DoubleDimension(int numOfRows, int numOfColumns) {
         rowSize = numOfRows;
         columnSize = numOfColumns;
